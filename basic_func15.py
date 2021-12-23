@@ -5,6 +5,6 @@
 # Example:
 # Input: a = 23 b = 5
 # Output: 3
-def main(a):
-    return a
-print(main(23%5))
+def main(a,b):
+    return a%b
+print(main(23,5))
