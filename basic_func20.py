@@ -7,4 +7,4 @@
 # Output: 20
 def main(a,b):
     return a*b
-print(main(5,4))
+print(main(5,4)) 
