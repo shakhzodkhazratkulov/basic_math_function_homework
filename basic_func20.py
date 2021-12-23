@@ -5,3 +5,6 @@
 # Example:
 # Input: a = 5 b = 4
 # Output: 20
+def main(a,b):
+    return a*b
+print(main(5,4))
