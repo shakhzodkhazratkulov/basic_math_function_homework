@@ -7,5 +7,5 @@
 # Output: 3.0
 import math
 def main(a):
-    return a
-print(main(math.sqrt(9)))
+    return math.sqrt(a)
+print(main((9)))
