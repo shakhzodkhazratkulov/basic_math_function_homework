@@ -5,3 +5,7 @@
 # Example:
 # Input: a = 9
 # Output: 3.0
+import math
+def main(a):
+    return a
+print(main(math.sqrt(9)))
