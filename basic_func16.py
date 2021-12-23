@@ -7,4 +7,4 @@
 # Output: 5
 def main(a,b):
     return a+b
-print(main(3 , 2))
+print(main(3,2))
